@@ -1,0 +1,25 @@
+https://help.github.com/articles/set-up-git/
+git config --global user.name "ZOUARI Nour Eddine"
+git config --global user.email "nzouari@garsys.fr"
+git config --global user.email "zouarinoureddine43@gmail.com"
+------------------
+https://help.github.com/articles/generating-ssh-keys/
+ssh key
+------------------
+manager1
+http://myprogrammingblog.com/2012/01/20/github-how-clone-github-repo-how-to-push-to-github-how-to-get-files-from-github-ubuntu/
+------------------
+git clone git@github.com:YOUR_USERNAME/REPO_NAME.git
+
+
+
+http://getandroidapp.org/applications/education/159172-apprendre-langlais-business-6-60.html
+
+
+------------------------------
+
+git add  Bureau/zouarino/github.txt
+git commit -m "first commit"
+git remote add origin https://github.com/zouarino4/zouarino.git
+git push origin master
+
